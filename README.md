@@ -1,6 +1,8 @@
 # BoardDetection
 Обнаружение платы и отлеживание состояния ее светодиодов.
+
 Демонстрация: https://drive.google.com/file/d/1paoGIuwJXPT-KIRSqP-60Fzz21ZtNTHw/view?usp=sharing
+
 ---------
 Жирный текст является определяющим для участка кода в программе.
 
